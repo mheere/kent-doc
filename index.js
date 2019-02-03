@@ -39,13 +39,12 @@ function CreateDoc(settings = {}) {
 		count++;
 	}
 
-	debugger;
 	console.log(doc);
 
-	let out = "";
-	//markdownpdf().from(doc).to(out);
+	// let out = "";
+	// //markdownpdf().from(doc).to(out);
 
-	console.log(out);
+	// console.log(out);
 }
 
 function createQuote() {
