@@ -90,6 +90,6 @@ function loadFile() {
 // start
 let settings = {};
 settings.title = "RJP - Remote Job Processor";
-settings.headers = ["Overview", "Minimum requirements", "Installing the RJP", "Upgrading RJP"];
+settings.headers = ["Overview", "Minimum requirements", "Installing the RJP", "Upgrading RJP", "Conclusion"];
 
 CreateDoc(settings);
